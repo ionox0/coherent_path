@@ -1,0 +1,12 @@
+.header-campaigns {
+	height: 20px;
+	margin-top: 20px;
+	padding-left: $space-left;
+	background-color: #FFF;
+	font-family: pier-regular;
+
+	> div {
+		display: inline-block;
+		margin-right: 50px;
+	}
+}
